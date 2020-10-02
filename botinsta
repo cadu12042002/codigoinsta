@@ -45,3 +45,7 @@ class InstagramBot:
         
 caduBot = InstagramBot('username', 'senha')
 caduBot.login()
+
+#### links 
+##  https://github.com/mozilla/geckodriver/releases/download/v0.27.0/geckodriver-v0.27.0-win64.zip
+# baixar o firefox
